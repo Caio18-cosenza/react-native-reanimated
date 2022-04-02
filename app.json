@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "reanimated-RN",
+    "slug": "reanimated-RN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
